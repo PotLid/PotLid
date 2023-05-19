@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-Check my [Website](https://potlid.dev) if you want to learn more about me! 😄
+Check out my [Website](https://potlid.dev) if you want to learn more about me! 😄
 
 <!--
 **PotLid/PotLid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
